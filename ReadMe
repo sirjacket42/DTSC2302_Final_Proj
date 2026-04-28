@@ -4,13 +4,27 @@ For each model (classification and regression) you are building you need to star
 
 The following is the breakdown of the grading for this project. Doing just the basics will get you approximately an 85%, so please go ahead and do extras to impress us.
 
+
+DONE_________________________________________________________
 Proposal on topics you will study due to Gradescope by 27 April 7:59 pm. This proposal should include the topic you have chosen, (e.g.Education or Transportation), include the target variables and the features you will use for both models. It should be in the form of a short memo to your boss. Your proposal should be at most 1 (ONE) page in length. [30 pts]
 
-Introduction: Descibe the topic you chose, why it was of interest and mention the results. Tell your reader what is to follow in the rest of your report. [15 pts]
+Evidence in the Appendix for having a shared Github repository for your group [10 pts].
+----------------------------------------------------------------------------------------------------------------
+
+IN PROGRESS__________________________________________________
 
 Regression Model: Report on your regression model including discussion of approach that led to a final model. Include an assessment of how well the model performed [25 pts]
 
 Classification Model: Report on your classification model including discussion of approach that led to a final model. Include an assessment of how well the model performed [25 pts]
+
+Evidence in the Appendix for using a database for merging data [10 pts].
+
+----------------------------------------------------------------------------------------------------------------
+
+
+NEED TO START________________________________________________
+
+Introduction: Descibe the topic you chose, why it was of interest and mention the results. Tell your reader what is to follow in the rest of your report. [15 pts]
 
 Conclusion: Recap what you did for your audience and summarize the conclusions [10 pts]
 
@@ -20,9 +34,8 @@ Recorded an AT MOST 3 minute presentation as an MP4 file along the lines of (htt
 
 Code uploaded as Appendix. [10 pts]
 
-Evidence in the Appendix for using a database for merging data [10 pts].
 
-Evidence in the Appendix for having a shared Github repository for your group [10 pts].
+----------------------------------------------------------------------------------------------------------------
 
 total number of points listed         200
 est total points needed for a 100% =  235
